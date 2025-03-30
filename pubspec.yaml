@@ -10,6 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_svg: ^2.0.17
+  google_nav_bar: ^5.0.7
+  line_icons: ^2.0.3
 
 dev_dependencies:
   flutter_test:
@@ -20,3 +22,9 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/logo_image.svg
+    - assets/images/n1.png
+    - assets/images/n2.png
+    - assets/images/n3.png
+    - assets/images/n4.png
+    - assets/images/n5.png
+    - assets/images/n6.png
